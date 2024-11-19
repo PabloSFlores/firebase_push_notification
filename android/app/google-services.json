@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "1056061427970",
+    "project_id": "sipiap-44f01",
+    "storage_bucket": "sipiap-44f01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056061427970:android:c8e502b26c7fdbab70f21b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056061427970-h08ct8tijqn0ttvnr609fpavqsd4q0q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPa1xfvg9oeQy73VnhWdb49PGlk5gqBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056061427970-h08ct8tijqn0ttvnr609fpavqsd4q0q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056061427970:android:cef748ed6da112f370f21b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056061427970-h08ct8tijqn0ttvnr609fpavqsd4q0q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPa1xfvg9oeQy73VnhWdb49PGlk5gqBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056061427970-h08ct8tijqn0ttvnr609fpavqsd4q0q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056061427970:android:71e217e817a3462670f21b",
+        "android_client_info": {
+          "package_name": "mx.edu.utez.sipiap_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056061427970-h08ct8tijqn0ttvnr609fpavqsd4q0q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPa1xfvg9oeQy73VnhWdb49PGlk5gqBNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056061427970-h08ct8tijqn0ttvnr609fpavqsd4q0q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
